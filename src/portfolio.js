@@ -255,7 +255,7 @@ const bigProjects = {
     {
       image: require("./assets/images/audile.png"),
       projectName: "Audile",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "An android application to read and hear news articles, build using Java.",
       // footerLink: [
       //   {
       //     name: "Visit Website",
@@ -267,7 +267,7 @@ const bigProjects = {
     {
       image: require("./assets/images/connectFour.png"),
       projectName: "Connect4",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "A Desktop application of connect4 game build using JavaFX.",
       // footerLink: [
       //   {
       //     name: "Visit Website",
