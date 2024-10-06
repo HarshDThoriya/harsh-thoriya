@@ -218,6 +218,18 @@ const bigProjects = {
   subtitle: "Built projects using different tech stacks and in varierty of domains",
   projects: [
     {
+      image: require("./assets/images/supplyChainManagement.png"),
+      projectName: "Supply Chain Management Systen",
+      projectDesc: "A Cloud based Solution for businesses to manage the lifecycle of the delivery until it reaches the end user.",
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: "http://saayahealth.com/"
+      //   }
+      //   //  you can add extra buttons here.
+      // ]
+    },
+    {
       image: require("./assets/images/vetCloud+.png"),
       projectName: "Vet Cloud+",
       projectDesc: "A SaaS solution for Veterinary Hospitals and Clinics to manage the daily operations effectively.",
