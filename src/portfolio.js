@@ -134,7 +134,7 @@ const educationInfo = {
       duration: "August 2017 - May 2021",
       descBullets: [
         "Worked on several projects. participated in events and workshops.",
-        "Achieved Distinction with 3.73 GPA. Took courses about Software Engineering, Web Security, Operating Systems, Data Structures and Algorithms", "Theory of Computation", "Machine Learning", "Internals of Operating System, etc."
+        "Achieved Distinction with 3.73 GPA. Took courses about Software Engineering, Web Security, Operating Systems, Data Structures and Algorithms, Theory of Computation, Machine Learning, Internals of Operating System, etc."
       ]
     }
   ]
