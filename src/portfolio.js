@@ -47,7 +47,7 @@ const skillsSection = {
   title: "Technical Skills",
   subTitle: "",
   skills: [
-    
+
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -132,7 +132,7 @@ const educationInfo = {
       logo: require("./assets/images/charusatLogo.png"),
       subHeader: "Bachelor of Technology in Computer Engineering",
       duration: "August 2017 - May 2021",
-      desc: "Achieved Distinction with 3.73 GPA. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc: ["Achieved Distinction with 3.73 GPA. Took courses about Software Engineering, Web Security, Operating Systems, Data Structures and Algorithms", "Theory of Computation", "Machine Learning", "Internals of Operating System, etc."],
       descBullets: ["Worked on several projects. participated in events and workshops."]
     }
   ]
@@ -288,7 +288,7 @@ const bigProjects = {
       //   //  you can add extra buttons here.
       // ]
     },
-   
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
