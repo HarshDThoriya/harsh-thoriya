@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Java and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1n5zieCennuExQpz2Q6hvT1o1POfiFGk4/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ma4SSQtiezkGvbifvmHLj39dJ01Sv0DU/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
