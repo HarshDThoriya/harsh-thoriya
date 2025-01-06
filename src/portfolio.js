@@ -118,7 +118,7 @@ const educationInfo = {
     {
       schoolName: "California State University, Long Beach",
       logo: require("./assets/images/csulbLogo.png"),
-      subHeader: "Master of Science in Computer Science",
+      subHeader: "Master of Science in Computer Science (GPA: 4/4)",
       duration: "August 2024 - December 2025 (Exp)",
       desc: "",
       descBullets: [
@@ -130,7 +130,7 @@ const educationInfo = {
     {
       schoolName: "Charotar University of Science and Technolgy",
       logo: require("./assets/images/charusatLogo.png"),
-      subHeader: "Bachelor of Technology in Computer Engineering",
+      subHeader: "Bachelor of Technology in Computer Engineering (GPA: 9.33/10)",
       duration: "August 2017 - May 2021",
       descBullets: [
         "Worked on several projects. participated in events and workshops.",
